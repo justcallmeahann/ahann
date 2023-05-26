@@ -22,7 +22,7 @@ class Attributes extends nyannss {
         $discord  = "nyannss#3521";
         $proton   = "nyannss@proton.me";
 
-        return array($discord, $telegram, $proton);
+        return array($discord, $proton);
     }
 
     public static function life() {
