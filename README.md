@@ -34,7 +34,7 @@ class Attributes extends nyannss {
     }
 
     public static function coding() {
-        $langs = ['js', 'php'];
+        $langs = ['js', 'php', 'java'];
         $specialities  = array('fullstack', 'skidding (joke)');
         $environnement = array('vscode', 'sublime text 4');
 
