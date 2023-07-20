@@ -62,4 +62,7 @@ class Attributes extends nyannss {
   </a>
 </p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nyannss&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>
+<div align="center" style="display:flex; flex-direction:column;flex-wrap:wrap; gap:15px;">
+  <img src="https://grs2020.vercel.app/api?username=nyannss&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
+  <img src="https://grs2020.vercel.app/api/top-langs/?username=nyannss&hide_border=true&count_private=true&layout=compact&theme=tokyonight" align="center" />
+</div>
