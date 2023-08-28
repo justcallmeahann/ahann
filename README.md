@@ -5,16 +5,23 @@
   
 
 <div align="center">
-<a href="https://github.com/nyannss" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="mailto:nyannss@proton.me" target="_blank">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/frhnbrln" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/frhnbrln/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/ahanncode" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram" style="margin-bottom: 5px;" />
 </a>  
+</div> 
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=nyannss&color=green)
+
 </div>  <br>
+
 
 ```php
 class Attributes extends nyannss {
@@ -36,9 +43,9 @@ class Attributes extends nyannss {
     public static function coding() {
         $langs = ['js', 'php', 'java'];
         $specialities  = array('fullstack', 'skidding (joke)');
-        $environnement = array('vscode', 'sublime text 4');
+        $environment = array('vscode', 'sublime text 4');
 
-        return array($langs, $specialities, $environnement);
+        return array($langs, $specialities, $environment);
     }
 
     public static function projects() {
