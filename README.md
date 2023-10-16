@@ -1,7 +1,7 @@
 # <div align="center">Hey 👋, I'm ahann</div>  
   
 
-### <div align="center">A enthusiastic full stack developer and graphics designer</div>  
+<h3 align="center">A enthusiastic full stack web developer with graphics designer</h3><br>
   
 
 <div align="center">
@@ -22,54 +22,32 @@
 
 </div>  <br>
 
-
-```php
-class Attributes extends nyannss {
-    public static function contact() {
-        $discord  = "nyannss#3521";
-        $proton   = "nyannss@proton.me";
-
-        return array($discord, $proton);
-    }
-
-    public static function life() {
-        $langs         = array('Bahasa', 'Javanese', 'English');
-        $nationalities = array_diff($langs, array('Indonesian'));
-        $age           = 19;
-
-        return array($langs, $nationalities, $age);
-    }
-
-    public static function coding() {
-        $langs = ['js', 'php', 'java'];
-        $specialities  = array('fullstack', 'skidding (joke)');
-        $environment = array('vscode', 'sublime text 4');
-
-        return array($langs, $specialities, $environment);
-    }
-
-    public static function projects() {
-        $website   = array('tisaga.com');
-
-        return array($website);
-    }
-}
-```
-
-<br>
 <h2 align="center">Skills </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,php,js,css,html,mysql,postgresql" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode,php,js,css,html,golang" />
   </a>
   <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,express,react,next" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb" />
+  </a>
+  <br><br>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=laravel,express,react,next,tailwind" />
   </a>
 </p>
 
+<br>
+<h2 align="center">My Stats</h2>
+
 <div align="center" style="display:flex; flex-direction:column;flex-wrap:wrap; gap:15px;">
   <img src="https://grs2020.vercel.app/api?username=nyannss&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
-  <img src="https://grs2020.vercel.app/api/top-langs/?username=nyannss&hide_border=true&count_private=true&layout=compact&theme=tokyonight" align="center" />
+  <img src="https://grs2020.vercel.app/api/top-langs/?username=nyannss&hide_border=true&count_private=true&layout=compact&theme=tokyonight&langs_count=8" align="center" />
+  <br><br><br>
+  WakaTime (start from 25/09/2023) <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=frhnbrln&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" align="center" />
+  
 </div>
+
+
