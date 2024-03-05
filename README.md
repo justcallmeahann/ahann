@@ -1,5 +1,5 @@
 
-## Hi there! 👋 I'm Farhan Brillan, a enthusiastic Staff Software Engineer.
+## Hi there! 👋 I'm Farhan Brillan, a enthusiastic Software Engineer.
 
 Let's connect and build the future together! 🌟
 
