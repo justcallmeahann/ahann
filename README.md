@@ -22,4 +22,4 @@ Let's connect and build the future together! 🌟
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nyannss)](https://github.com/nyannss/github-profile-trophy)
 
-[![wakatime](https://readme-stats.ahann.dev/api/wakatime?username=frhnbrln&langs_count=6&theme=tokyonight&layout=compact&hide_border=true)](https://readme-stats.ahann.dev/api/wakatime?username=frhnbrln&langs_count=6&theme=dark&layout=compact&hide_border=true)
+[![wakatime](https://readme-stats.ahann.dev/api/wakatime?username=frhnbrln&langs_count=6&theme=dark&layout=compact&hide_border=true)](https://readme-stats.ahann.dev/api/wakatime?username=frhnbrln&langs_count=6&theme=dark&layout=compact&hide_border=true)
