@@ -25,6 +25,6 @@ Now Playing:
 
 ![ahann's github stats](https://readme-stats.ahann.dev/api?username=nyannss&show_icons=true&count_private=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nyannss)](https://github.com/nyannss/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nyannss)](https://github.com/nyannss/github-profile-trophy) -->
 
 [![wakatime](https://readme-stats.ahann.dev/api/wakatime?username=frhnbrln&langs_count=6&theme=dark&layout=compact&hide_border=true)](https://readme-stats.ahann.dev/api/wakatime?username=frhnbrln&langs_count=6&theme=dark&layout=compact&hide_border=true)
