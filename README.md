@@ -6,6 +6,10 @@ Let's connect and build the future together! 🌟
 [![Linkedin: Farhan](https://img.shields.io/badge/-Farhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frhnbrln/)](https://www.linkedin.com/in/frhnbrln/)
 [![Gitlab: ahann](https://img.shields.io/badge/-ahann-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://www.linkedin.com/in/frhnbrln/)](https://gitlab.com/ahann/)
 
+Now Playing:
+
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=mmzmc4sxythgp17y6hwi2vbcb&redirect=true"><img height="80em" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mmzmc4sxythgp17y6hwi2vbcb&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true"/></a>
+
 
 ---
 
