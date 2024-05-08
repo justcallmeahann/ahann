@@ -5,6 +5,7 @@ Let's connect and build the future together! 🌟
 
 [![Linkedin: Farhan](https://img.shields.io/badge/-Farhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frhnbrln/)](https://www.linkedin.com/in/frhnbrln/)
 [![Gitlab: ahann](https://img.shields.io/badge/-ahann-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://www.linkedin.com/in/frhnbrln/)](https://gitlab.com/ahann/)
+![Counter](https://komarev.com/ghpvc/?username=nyannss)
 
 Now Playing:
 
