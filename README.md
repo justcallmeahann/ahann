@@ -18,9 +18,9 @@ Let's connect and build the future together! 🌟
   **[Instagram](https://instagram.com/ahann.dev)**
 
 
-![Top Langs](https://readme-stats.ahann.dev/api/top-langs/?username=nyannss&count_private=true&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://readme-stats.ahann.dev/api/top-langs/?username=k1rana&count_private=true&layout=compact&theme=dark&hide_border=true)
 
-![ahann's github stats](https://readme-stats.ahann.dev/api?username=nyannss&show_icons=true&count_private=true&hide_border=true&theme=dark)
+![ahann's github stats](https://readme-stats.ahann.dev/api?username=k1rana&show_icons=true&count_private=true&hide_border=true&theme=dark)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nyannss)](https://github.com/nyannss/github-profile-trophy) -->
 
